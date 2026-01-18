@@ -6,7 +6,7 @@
 
 ---
 
-### My Contributions 🛠️
+### Our Contributions 🛠️
 
 - **Code Refactoring:** Restructured the codebase into modular components for better maintainability
 - **Dashboard Improvements:** Enhanced the web-based visualization interface
